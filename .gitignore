@@ -1,0 +1,5 @@
+.cursorignore
+
+docs/
+papers/model_paper/
+nbs/old_eda.ipynb
